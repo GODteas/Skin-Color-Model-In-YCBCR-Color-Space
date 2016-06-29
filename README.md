@@ -12,11 +12,11 @@ labeled parts: http://viswww.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_gt_
 Complier Environment<br>
 Matlab(R2011a)<br>
 
-Execution
-Please  Gaussian ellipsoid and image in the same folder
+Execution<br>
+Please  Gaussian ellipsoid and image in the same folder<br>
 
-Training
-Training can only read two experiments, read other photos please change the path
+Training<br>
+Training can only read two experiments, read other photos please change the path<br>
 
 
 skin distribution in YCbCr 
