@@ -4,12 +4,13 @@ Reference : "A novel skin color model in YCbCr color space and its application t
 
 
 Required
-1.Plot Gaussian ellipsoid: http://www.mathworks.com/matlabcentral/fileexchange/16543-
-
-plot-gaussian-ellipsoid 
+1.Plot Gaussian ellipsoid: http://www.mathworks.com/matlabcentral/fileexchange/16543-plot-gaussian-ellipsoid <br>
 2.Dataset 
 lfw images: http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz <br>
 labeled parts: http://viswww.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_gt_images.tgz<br>
+
+Complier Environment
+Matlab(R2011a)
 
 Execution
 
