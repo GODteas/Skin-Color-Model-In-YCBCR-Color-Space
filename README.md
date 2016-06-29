@@ -10,10 +10,8 @@ Required
 
 plot-gaussian-ellipsoid 
 2.Dataset 
-lfw images: http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz 
-labeled parts: 
-
-http://viswww.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_gt_images.tgz
+lfw images: http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz <br>
+labeled parts: http://viswww.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_gt_images.tgz<br>
 
 Execution
 
