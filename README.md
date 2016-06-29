@@ -22,7 +22,6 @@ Training
 
 Training can only read two experiments, read other photos please change the path
 
-change the path
 
 skin distribution in YCbCr 
 <br>
