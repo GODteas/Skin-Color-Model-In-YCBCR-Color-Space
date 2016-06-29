@@ -9,8 +9,8 @@ Required
 lfw images: http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz <br>
 labeled parts: http://viswww.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_gt_images.tgz<br>
 
-Complier Environment
-Matlab(R2011a)
+Complier Environment<br>
+Matlab(R2011a)<br>
 
 Execution
 
