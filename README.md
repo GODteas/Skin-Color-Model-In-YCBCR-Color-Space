@@ -13,12 +13,9 @@ Complier Environment<br>
 Matlab(R2011a)<br>
 
 Execution
-
 Please  Gaussian ellipsoid and image in the same folder
 
 Training
-
-
 Training can only read two experiments, read other photos please change the path
 
 
@@ -26,7 +23,6 @@ skin distribution in YCbCr
 <br>
 ![Skin distribution in YCbCr](uninitialized.png)
 <br>
-
 
 
 
