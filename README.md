@@ -1,8 +1,6 @@
 Skin Color Model In YCBCR Color Space
 Matlab implementation of paper : Son Lam Phung,Abdesselam Bouzerdoum,and Douglas Chai
-Reference : "A novel skin color model in YCbCr color space and its application to human 
-
-face detection", ICIP 2002.
+Reference : "A novel skin color model in YCbCr color space and its application to human face detection", ICIP 2002.
 
 
 Required
